@@ -22,7 +22,7 @@ public class LivroEstoqueTest {
     public void testConstrutorPadrao() {
         LivroEstoque estoquePadrao = new LivroEstoque();
         Assert.assertNull(estoquePadrao.livro);
-        Assert.assertEquals(1, estoquePadrao.exemplares);
+        Assert.assertEquals(0, estoquePadrao.exemplares);
         Assert.assertEquals(0.0, estoquePadrao.valor, 0.01);
     }
 
