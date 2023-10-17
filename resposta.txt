@@ -1,0 +1,4 @@
+A possibilidade de cobertura de 100% existe teoricamente, mas é notável a dificuldade de alcançar a total cobertura em maioria de projetos.
+Existem vários pontos que dificultam a cobertura completa de códigos, como por exemplo: códigos inalcançáveis com uso de frameworks terceiros, projetos legados com códigos não preparados para testes, 
+difícil manutenção com constantes mudanças de códigos, e o custo e tempo que deve ser gasto para um projeto de grande porte para poder alcançar os 100% de cobertura
+Considerando esses pontos, cobertura de 100% do projeto talvez seja válida apenas em projetos com muitos pontos críticos que demanda um qualidade de código alta, como códigos para aviões ou carros automáticos.
